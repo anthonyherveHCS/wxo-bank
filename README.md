@@ -9,6 +9,9 @@
 
 </head>
 
+<body>
+<div id="root"></div>
+    
 <script>
   window.wxOConfiguration = {
     orchestrationID: "f665a69257a9fbe8b8bf0f77bcee465e_cb18e62f-3b09-4337-a728-3693e9a8f16f",
@@ -30,7 +33,6 @@
     document.head.appendChild(script);
   }, 0);                     
 </script>
-
-<body></body>
+</body>
 
 </html>
